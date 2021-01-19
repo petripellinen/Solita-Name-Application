@@ -8,4 +8,4 @@ Tasks 1-4 are completed
 4. Return the amount of the name given as a parameter
 
 User interface is done with python using pandas dataframes and PySimpleGUI libraries.
-GUI is implemented to provide ease of use.
+GUI is implemented to provide ease of use. Python file uploaded to repository.
