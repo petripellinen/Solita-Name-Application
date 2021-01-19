@@ -7,5 +7,5 @@ Tasks 1-4 are completed
 3. Return the total amount of all the names
 4. Return the amount of the name given as a parameter
 
-User interface is done with python using pandas dataframes and PySimpleGUI libraries.
+User interface is done with python using pandas and PySimpleGUI libraries.
 GUI is implemented to provide ease of use. Python file uploaded to repository.
